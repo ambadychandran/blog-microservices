@@ -1,2 +1,3 @@
 blog-client/node_modules/
 blog-server/comments/node_modules/
+blog-server/posts/node_modules/
