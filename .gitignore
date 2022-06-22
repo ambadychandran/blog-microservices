@@ -2,3 +2,4 @@ blog-client/node_modules/
 blog-server/comments/node_modules/
 blog-server/posts/node_modules/
 blog-server/event-bus/node_modules/
+blog-server/query/node_modules/
