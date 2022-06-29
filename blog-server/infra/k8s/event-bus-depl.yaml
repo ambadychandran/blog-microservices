@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: event-bus
-          image: bgeventbus:1.0
+          image: bgeventbus:2.0
 
 ---
 apiVersion: v1
